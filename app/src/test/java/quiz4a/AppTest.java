@@ -25,7 +25,7 @@ class AppTest {
     //ข้อ 3 ตรวจสอบว่า Bonus เป็น 20% ของ เงินเดือน(Salary)
     //ต้องมีการแก้ไข code ใน Manager.java ให้ถูกต้อง
     @Test void Bonus20() {
-        Manager x = new Manager(1, "John Doe", 100, "Seller", 20);
+        Manager a = new Manager(1, "John Doe", 100, "Seller", 20);
         assertEquals(20, 20);
     }
 }
