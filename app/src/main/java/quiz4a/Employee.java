@@ -17,7 +17,7 @@ public class Employee {
      * พนักงาน เก็บ ไอดี, ชื่อพนักงาน, เงินเดือน
      * 
      * @param employeeId
-     *                 ไอดีพนักงงาน
+     *                 ไอดีพนักงาน
      * @param name
      *                 ชื่อพนักงาน
      * @param salary
@@ -41,7 +41,7 @@ public class Employee {
     }
 
     /**
-     * รับไอดีพนักงงาน
+     * รับไอดีพนักงาน
      * 
      * @return ไอดีพนักงาน
      */
@@ -51,7 +51,7 @@ public class Employee {
     }
 
      /**
-     * รับไอดีพนักงงาน
+     * รับไอดีพนักงาน
      * 
      * @return ชื่อพนักงาน
      */
