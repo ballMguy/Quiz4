@@ -2,7 +2,10 @@ package quiz4a;
 
 /**
  * คลาส พนักงาน
- * 
+ *  ตัวแปรดังนี้
+ *  ไอดี 
+ *  ชื่อ 
+ *  เงินเดือน 
  */
 // (1.1) เขียน Java Docs
 public class Employee {
